@@ -1,3 +1,10 @@
+<!-- 
+  👋 Welcome! Feel free to customize this profile:
+  - Update social links in the "Let's Connect" section
+  - Modify the tech stack to match your skills
+  - Personalize the "About Me" section with your story
+-->
+
 <div align="center">
   
 # 👋 Hello, I'm Ginio
@@ -46,7 +53,7 @@ I'm a passionate software engineer with a proven track record of building scalab
 
 <div align="center">
   
-![Ginio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginio15&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Ginio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginio15&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginio15&layout=compact&theme=radical&hide_border=true)
 
