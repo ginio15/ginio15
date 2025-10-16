@@ -36,8 +36,8 @@
 ---
 
 ## 📊 GitHub Highlights
-![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=transparent&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=ginio15&show_icons=true&theme=transparent&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginio15&layout=compact&theme=transparent)
 
 ---
 
