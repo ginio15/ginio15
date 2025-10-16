@@ -52,59 +52,9 @@
 
 
 
-# Ginio — AI Builder • Product & Systems Thinker
 
-I build AI-native products that turn messy documents into decisive insight.  
-Currently shipping at **Hermetica** (Athens) — evidence-first due diligence tooling for boards & M&A.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR) • [X/Twitter](https://x.com/YOUR) • [Substack](https://YOUR.substack.com) • [Email](mailto:you@domain.com)
-
----
-
-## 🚀 Now
-- **Hermetica** — AI for board decks & M&A: evidence-cited insights, local-first privacy.
-- Exploring: agentic evals, RAG reliability, verifiable summaries.
-
-> If you’re a holding company / PE / family office, I’ll run a **1-week pilot** on your deck.  
-> **DM me** or open an issue on [`hermetica-core`](https://github.com/YOUR/HERMETICA_REPO).
-
----
-
-## 🧪 Recent Demos
-- Board deck analyzer (3-min Loom) → **Watch:** https://www.loom.com/share/LOOM_ID  
-- FastAPI evidence viewer (GIF) → ![demo](assets/evidence-viewer.gif)
-
-*Tip:* GitHub doesn’t allow iframes; use GIF thumbnails that link out to Loom:
-[![Watch the demo](assets/loom-thumb.png)](https://www.loom.com/share/LOOM_ID)
-
----
-
-## 🧩 Selected Projects
-- **Olympia BoD Analyzer** — verifiable, slide-anchored insights • [Repo](https://github.com/YOUR/REPO) • [Demo](https://www.loom.com/share/ID)
-- **AI Scripts** — RAG utilities, eval harness, prompt kits • [Repo](https://github.com/YOUR/REPO)
-- **FastAPI Utils** — production-ready scaffolds & middlewares • [Repo](https://github.com/YOUR/REPO)
-
-> More: [Pinned repos ↓](#)
-
----
-
-## 🛠️ Edge & Stack
-**AI/ML:** RAG, retrieval evals, vector search, LLM orchestration  
-**Backend:** Python, FastAPI, Postgres, Docker, Celery  
-**Infra:** Azure, k8s, Terraform (enough to be dangerous)  
-**Product:** Opinionated UX, agent flows, evidence-first design
-
----
-
-## 🗣️ Writing / Talks
-- “Evidence-First AI for Boards” — short write-up → [Substack](https://YOUR.substack.com/p/POST_ID)
-- Panel: “AI agents for finance ops” → [Slides](https://link.to/slides)
-
----
-
-## 🤝 Let’s Build
-I like fast pilots with clear success criteria.  
-**Best way to reach me:** email or DM on X.  
+  
 
 
 
