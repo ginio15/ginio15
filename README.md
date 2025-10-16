@@ -51,5 +51,6 @@
 
 > “Build systems that think, not tools that follow.”
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginio15&theme=transparent)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginio15&theme=default
+
