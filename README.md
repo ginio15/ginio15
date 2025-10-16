@@ -51,3 +51,4 @@
 
 > “Build systems that think, not tools that follow.”
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=github-compact)
