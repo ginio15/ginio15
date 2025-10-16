@@ -51,4 +51,4 @@
 
 > “Build systems that think, not tools that follow.”
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<ginio15>&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ginio15&theme=github-compact)
