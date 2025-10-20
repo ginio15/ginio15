@@ -1,6 +1,6 @@
 # 👋 Hi, I’m George
 
-🚀 **AI & Software Engineer** exploring the capabilities of cutting edge-tech & AI systems by building products for my-self 
+🚀 **AI & Software Engineer** exploring the capabilities of cutting edge-tech & AI systems by building products for myself 
 
 
 ---
