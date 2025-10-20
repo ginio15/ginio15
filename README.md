@@ -35,9 +35,6 @@
 
 
 
-  ![Tech](https://img.shields.io/badge/AI-RAG-blue)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-brightgreen)
-![Location](https://img.shields.io/badge/Athens-UTC%2B3-informational)
 
 
 
