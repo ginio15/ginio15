@@ -21,7 +21,7 @@
 | **Infra & DevOps** | Docker, AWS, Nginx, GitHub Actions |
 | **Databases** | Postgres, MongoDB, Milvus |
 | **Frontend** | React, Tailwind, Next.js |
-| **Other** | Figma, VSCode, Cursor, Obsidian |
+| **Other** | Figma, VSCode, Cursor, Obsidian, Loom, Grafana |
 
 
 ---
