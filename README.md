@@ -9,7 +9,7 @@
 - **LLM Systems:** Retrieval-Augmented Generation (RAG), Agentic Workflows, Guardrails, Eval Loops.
 - **AI Infra:** FastAPI, LangChain, LlamaIndex, Milvus, Docker, Redis, Postgres.
 - **ModelOps:** Prompt optimization, evaluation, dataset curation, fine-tuning pipelines.
-- **Product Development:** Opinionated UX, clean architectures, privacy-first AI.
+- **Product Development:** Opinionated UX, clean architectures, Roadmapping, Discovery.
 
 ---
 
