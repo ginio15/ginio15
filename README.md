@@ -26,8 +26,6 @@
 
 ---
 
-## 📊 GitHub Highlights
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginio15&layout=compact&theme=transparent)
 
 
 
