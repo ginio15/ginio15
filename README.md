@@ -1,8 +1,8 @@
 # 👋 Hi, I’m George
 
-🚀 **AI & Software Engineer** Building Hermetica: https://hermetica-ai.com/   
+🚀 Building Hermetica: https://hermetica-ai.com/   
 
-Among 20 Greek founders worldwide who were selected for the first OpenAI accelerator: https://openai.com/global-affairs/openai-for-greece/ 
+🚀 Selected among 20 Greek founders worldwide for the first OpenAI accelerator: https://openai.com/global-affairs/openai-for-greece/ 
 
 ---
 
