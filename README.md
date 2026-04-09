@@ -17,11 +17,11 @@
 | Category | Tools |
 |-----------|--------|
 | **Backend** | Python, FastAPI, Django, Node.js |
-| **AI/ML** | PyTorch, LangChain, Hugging Face, OpenAI API |
-| **Infra & DevOps** | Docker, AWS, Nginx, GitHub Actions |
-| **Databases** | Postgres, MongoDB, Milvus |
+| **AI/ML** | PyTorch, LangChain, Hugging Face, Open Router |
+| **Infra & DevOps** | Docker, AWS, GitHub Actions |
+| **Databases** | Postgres, MongoDB, Qdrant |
 | **Frontend** | React, Tailwind, Next.js |
-| **Other** | Figma, VSCode, Cursor, Obsidian, Loom, Grafana |
+| **Other** | Claude Code, Obsidian, Grafana |
 
 
 ---
