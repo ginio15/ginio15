@@ -1,6 +1,6 @@
 # 👋 Hi, I’m George
 
-🚀 Building Hermetica: https://hermetica-ai.com/   
+🚀 Founder of Hermetica: https://hermetica-ai.com/   
 
 🚀 Selected among 20 Greek founders worldwide for the first OpenAI accelerator: https://openai.com/global-affairs/openai-for-greece/ 
 
